@@ -11,4 +11,3 @@ How to Use :
 1.Run the script.
 2.Enter the value you want to convert.
 3.Click on the "Convert" button =>The result will be displayed below.
-Requirements
